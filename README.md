@@ -77,7 +77,7 @@ The Power BI dashboard includes:
 ---
 
 ## 📂 Repository Contents
-- `Online_Retail_Sales_Analytics.pbix` – Power BI dashboard file
+- `SalesAnalysis.pbix` – Power BI dashboard file
 - `README.md` – Project documentation
 
 ---
