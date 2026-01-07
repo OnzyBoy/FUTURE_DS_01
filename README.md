@@ -90,6 +90,13 @@ The Power BI dashboard includes:
 
 ---
 
+## 🎥 Dashboard Walkthrough (Demo Video)
+
+A short video walkthrough demonstrating the dashboard’s interactivity, filters, and key insights:
+
+▶️ **Watch the demo here:**  
+[Demo Video](https://www.loom.com/share/aa13f47746e941c19bfb3ef62148db5b)
+
 ## 👤 Author
 **Aristo Ayako**  
 Data Analytics & Data Science Intern  
